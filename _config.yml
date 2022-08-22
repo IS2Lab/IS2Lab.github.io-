@@ -6,7 +6,7 @@ description:        "this is a page for IS2 lab, We mainly conduct research in t
 
 
 # URL
-url:                https://is2lab-beta.github.io/
+url:                https://is2lab.github.io/
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
