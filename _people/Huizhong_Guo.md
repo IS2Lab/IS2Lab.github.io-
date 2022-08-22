@@ -1,5 +1,5 @@
 ---
-name: Zhonghui Guo
+name: HuiZhong Guo
 position: mscstudent
 avatar: Zhonghui_Guo.jpg
 twitter:
