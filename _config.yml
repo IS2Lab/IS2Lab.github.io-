@@ -1,0 +1,64 @@
+
+# Basic
+name:               "Intelligent System Security (IS2) Lab"
+title:              "Intelligent System Security (IS2) Lab affiliated with the College of Control Science and Engineering, Zhejiang University, Hangzhou, China."
+description:        "this is a page for IS2 lab, We mainly conduct research in the interdisciplinary fields of formal methods, software engineering, system security and machine learning, with a focus on providing reliability or security guarantees for practical large-scale Artificial Intelligence (AI) systems and Cyber-physical systems (CPSs) like autonomous driving cars, industrial control systems, recommendation systems, healthcare, etc."
+
+
+# URL
+url:                https://is2lab-beta.github.io/
+baseurl:            
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "Home"
+    href:           "/"
+  - name:           "About"
+    href:           "/about"
+  - name:           "Publications"
+    href:           "/publication"
+  - name:           "Members"
+    href:           "/members"
+  - name:           "Research"
+    href:           "/research"
+#  - name:           "Resources"
+#    href:           "/resources"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
