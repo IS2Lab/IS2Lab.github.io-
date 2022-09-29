@@ -2,6 +2,8 @@
 title: Members
 permalink: /members/
 ---
+<br>
+<br>
 
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "pi|postdoc|phdstudent|mscstudent|researchstaff|visiting|others|alumni" | split: "|" %}

@@ -3,6 +3,9 @@ title: About
 permalink: /about/
 ---
 
+<br>
+<br>
+
 ### About us
 The *Intelligent System Security (IS2) Lab* is a research group led by [Prof. Jingyi Wang](wang-jingyi.github.io) affiliated with the College of Control Science and Engineering, Zhejiang University, Hangzhou, China. We mainly conduct research in the interdisciplinary fields of formal methods, software engineering, system security and machine learning, with a focus on providing reliability or security guarantees for practical large-scale Artificial Intelligence (AI) systems and Cyber-physical systems (CPSs) like autonomous driving cars, industrial control systems, recommendation systems, healthcare, etc.
 

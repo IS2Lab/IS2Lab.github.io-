@@ -46,6 +46,7 @@ a {
   }
 }
 
+
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: .5rem;
@@ -72,11 +73,13 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
+
 p {
   font-family: "Open Sans", "Helvetica Neue", Helvetica;
   font-weight: 300;
   margin: 0 0 1rem;
   font-size: 0.8rem;
+  letter-spacing: 0.035rem;
 }
 
 ul, ol, dl {
@@ -92,7 +95,7 @@ li > ul > li {
 }
 
 dt {
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 dd {
