@@ -1,7 +1,7 @@
 ---
 name: Xvran Li
 position: phdstudent
-avatar: Xvran_Li.jpg
+avatar: Xuran_Li.jpg
 twitter:
 joined: 2022
 ---
